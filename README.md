@@ -1,19 +1,33 @@
 # Where-Cafe
-## Bot basic ID: <br>
-@558dakwp
-<br>
-## QR code:<br>
+## Bot basic ID:
+    @558dakwp
 
-![558dakwp](https://github.com/GUANNIANZIH/Where-Cafe/assets/164139266/62cdd660-1efd-4899-a591-ba8e23f08d95)
-<br>
+## QR code:
+
+ ![558dakwp](https://github.com/GUANNIANZIH/Where-Cafe/assets/164139266/62cdd660-1efd-4899-a591-ba8e23f08d95)
+    
+
 ## public data:
-Cafe Nomad:
-<br>
-咖啡廳遊牧民族
-<br>
-https://cafenomad.tw/
-<br>
-https://cafenomad.tw/api/v1.2/cafes
+    Cafe Nomad:
+
+    咖啡廳遊牧民族
+
+    https://cafenomad.tw/
+
+    https://cafenomad.tw/api/v1.2/cafes
+
+
+## Introdution:
+    Rich menu 功能:
+    Where Cafe' -> 出現快速尋找功能，會出現三個 quick reply 選項，"Where Cafe'"、"Cafe Nomad"、"Exit Chat Room"
+    Cafe Nomad -> 連接至咖啡廳網站
+    
+    手動輸入"快速尋找"，同耀會出現 quick reply 選項，
+    手動輸入"有哪些地區"，會出現全台灣有咖啡廳的地區位置，
+    發送自己的位置訊息給機器人，
+    會回傳離自己位置訊息最近的五間咖啡廳。
+
+
 
 
 ## Install
